@@ -1,111 +1,93 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:161b22,100:1f6feb&text=ADITYA%20NARAYAN&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=CSE%20%40%20IIIT%20Bhubaneswar%20%E2%80%A2%20Developer%20%E2%80%A2%20Builder&descAlignY=60&descSize=16&animation=fadeIn"/>
+# ADITYA NARAYAN
 
-<br>
+### CSE @ IIIT Bhubaneswar
 
-<a href="https://github.com/ADxSD-143">
-<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Developer • Builder • Problem Solver**
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
+<sub>Software • Data • ML • AI • Backend</sub>
+
+<br><br>
+
+🎓 CSE @ IIIT Bhubaneswar &nbsp;•&nbsp;
+💻 Developer &nbsp;•&nbsp;
+🚀 Builder &nbsp;•&nbsp;
+🏆 Hackathon Participant &nbsp;•&nbsp;
+🧠 ML / AI Explorer
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Aditya
-
 I'm a Computer Science student who enjoys turning ideas into working software, learning through projects, and experimenting with new technologies.
 
-> **Developer first. Builder always.**
-
-🎓 CSE @ IIIT Bhubaneswar  
-💻 Software Development  
-🚀 Hackathons & Side Projects  
-🧠 ML / AI Explorer
-
----
-
-## ⚡ What I Do
+<br>
 
 <table>
 <tr>
+<td width="25%" align="center">
 
-<td align="center" width="25%">
+### 💻 DEVELOPMENT
 
-### 💻
-
-**Development**
-
-Applications, APIs & backend systems
+Applications, APIs and backend systems.
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-### 📊
+### 📊 DATA
 
-**Data**
-
-Analysis, visualization & experimentation
+Analysis, visualization and experimentation.
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-### 🧠
+### 🧠 ML / AI
 
-**ML / AI**
-
-Machine learning & intelligent applications
+Machine learning and intelligent applications.
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-### 🚀
+### 🚀 BUILDING
 
-**Building**
-
-Hackathons, experiments & side projects
+Hackathons, side projects and technical experiments.
 
 </td>
-
 </tr>
 </table>
 
----
+<br>
 
-## 🚀 Selected Builds
+## Selected Builds
 
 <table>
-
 <tr>
-
-<td width="50%" valign="top">
-
-### 🛡️ Campus Cred Trust
-
-A credibility-focused system for analyzing community and campus reports.
-
-`Python` `ML` `NLP` `Backend`
-
-<a href="https://github.com/ADxSD-143/campus-cred-trust">View Repository →</a>
-
-</td>
 
 <td width="50%" valign="top">
 
 ### 🎬 Movie Recommendation System
 
-A content-based movie recommendation system using metadata and similarity techniques.
+A content-based recommendation system built from movie metadata using NLP, feature extraction and similarity techniques, with a Streamlit interface.
 
 `Python` `NLP` `Scikit-learn` `Streamlit`
 
-<a href="https://github.com/ADxSD-143/movie-recommendation-system">View Repository →</a>
+[View Repository →](https://github.com/ADxSD-143/movie-recommendation-system)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 QuantLens
+
+A machine-learning based quantitative finance project that discovers historical market regimes and explores risk using clustering and market features.
+
+`Python` `Pandas` `Scikit-learn` `Streamlit`
+
+[View Repository →](https://github.com/ADxSD-143/quantlens)
 
 </td>
 
@@ -115,152 +97,132 @@ A content-based movie recommendation system using metadata and similarity techni
 
 <td width="50%" valign="top">
 
-### 📈 QuantLens
+### 🎓 LearnMate AI
 
-An experimental data and ML project exploring market regimes and risk analysis.
+An evolving learning platform focused on learning workflows, backend engineering, recommendation ideas and AI/ML experimentation.
 
-`Python` `Data` `ML` `Quant`
+`Python` `FastAPI` `PostgreSQL` `ML`
 
-<a href="https://github.com/ADxSD-143/quantlens">View Repository →</a>
+[View Repository →](https://github.com/ADxSD-143/LearnMate-AI)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎓 LearnMate AI
+### 🔧 More in the Lab
 
-A learning-focused project exploring personalized study workflows.
+Smaller experiments, tools and technical builds live alongside the main projects as ideas move from exploration to implementation.
 
-`Python` `AI` `Product`
+`Software` `Data` `Experiments`
 
-<a href="https://github.com/ADxSD-143/LearnMate-AI">View Repository →</a>
+[Explore Repositories →](https://github.com/ADxSD-143?tab=repositories)
 
 </td>
 
 </tr>
-
 </table>
 
----
+<br>
 
-## 🧰 Tech Stack
+## Stack
 
-<div align="center">
+**Languages**
 
-### Languages
+`Python` `C++` `SQL`
 
-<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark"/>
+**Data / ML**
 
-<br><br>
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn`
 
-### Data & ML
+**Backend / Database**
 
-<img src="https://img.shields.io/badge/NumPy-161b22?style=for-the-badge&logo=numpy&logoColor=4dabcf"/>
-<img src="https://img.shields.io/badge/Pandas-161b22?style=for-the-badge&logo=pandas&logoColor=9b59b6"/>
-<img src="https://img.shields.io/badge/Scikit--learn-161b22?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Matplotlib-161b22?style=for-the-badge&logo=matplotlib&logoColor=ffffff"/>
+`FastAPI` `PostgreSQL` `MongoDB` `Streamlit`
 
-<br><br>
+**Tools**
 
-### Backend & Database
+`Git` `GitHub` `VS Code` `Jupyter`
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb&theme=dark"/>
+<br>
 
-<br><br>
+## Learning Path
 
-### Tools
+```text
+Python & Data
+      ↓
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+NLP
+      ↓
+Generative AI
+      ↓
+Agentic AI
+```
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark"/>
+Learning the fundamentals first, then building with them.
 
-</div>
+<br>
 
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-**Python & Data**
-
-↓
-
-**Machine Learning**
-
-↓
-
-**Deep Learning**
-
-↓
-
-**NLP**
-
-↓
-
-**Generative AI**
-
-↓
-
-**Agentic AI**
-
-</div>
-
-The goal is simple: **learn the fundamentals properly, then build with them.**
-
----
-
-## 🏆 Hackathons & Experiments
-
-I learn best by building.
+## Hackathons & Experiments
 
 ### ⚡ Bit N Build '26
 
 Working on an emergency-intelligence project involving data processing, ML and system development.
 
-Alongside hackathons, I regularly build small experiments and projects to learn new technologies.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ADxSD-143&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADxSD-143&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ADxSD-143&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 The Build Loop
-
-<div align="center">
-
-### BUILD → BREAK → DEBUG → IMPROVE → SHIP
+I learn heavily by building in hackathons, side projects and technical experiments.
 
 <br>
 
-**Learn something → build something → break something → fix it → ship it.**
-
-</div>
-
----
-
-## 🌐 Connect
+## GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/ADxSD-143">
-<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Public Builds**
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
+`4 repositories`
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+**Primary Focus**
+
+`Python` `Software` `Data` `ML`
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+**Profile**
+
+[GitHub](https://github.com/ADxSD-143)
+
+<br><br>
+
+[View contribution graph →](https://github.com/ADxSD-143)
+
+</div>
+
+<br>
+
+## Build Loop
+
+<div align="center">
+
+### BUILD
+
+↓
+
+### BREAK
+
+↓
+
+### DEBUG
+
+↓
+
+### IMPROVE
+
+↓
+
+### SHIP
 
 </div>
 
@@ -269,7 +231,5 @@ Alongside hackathons, I regularly build small experiments and projects to learn 
 <div align="center">
 
 ### Always building. Always learning.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1f6feb,50:161b22,100:0d1117&section=footer"/>
 
 </div>
