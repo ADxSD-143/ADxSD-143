@@ -2,234 +2,70 @@
 
 # ADITYA NARAYAN
 
-### CSE @ IIIT Bhubaneswar
+### CSE @ IIIT Bhubaneswar · Developer · Builder
 
-**Developer • Builder • Problem Solver**
+`Software` · `Data` · `ML/AI` · `Backend`
 
-<sub>Software • Data • ML • AI • Backend</sub>
+<br>
 
-<br><br>
-
-🎓 CSE @ IIIT Bhubaneswar &nbsp;•&nbsp;
-💻 Developer &nbsp;•&nbsp;
-🚀 Builder &nbsp;•&nbsp;
-🏆 Hackathon Participant &nbsp;•&nbsp;
-🧠 ML / AI Explorer
+<a href="https://github.com/ADxSD-143">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-I'm a Computer Science student who enjoys turning ideas into working software, learning through projects, and experimenting with new technologies.
+### About
 
-<br>
+Computer Science student who enjoys building things, solving problems, and learning by doing.
 
-<table>
-<tr>
-<td width="25%" align="center">
+Currently exploring **software development, data, machine learning and AI**.
 
-### 💻 DEVELOPMENT
-
-Applications, APIs and backend systems.
-
-</td>
-
-<td width="25%" align="center">
-
-### 📊 DATA
-
-Analysis, visualization and experimentation.
-
-</td>
-
-<td width="25%" align="center">
-
-### 🧠 ML / AI
-
-Machine learning and intelligent applications.
-
-</td>
-
-<td width="25%" align="center">
-
-### 🚀 BUILDING
-
-Hackathons, side projects and technical experiments.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Selected Builds
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎬 Movie Recommendation System
-
-A content-based recommendation system built from movie metadata using NLP, feature extraction and similarity techniques, with a Streamlit interface.
-
-`Python` `NLP` `Scikit-learn` `Streamlit`
-
-[View Repository →](https://github.com/ADxSD-143/movie-recommendation-system)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📈 QuantLens
-
-A machine-learning based quantitative finance project that discovers historical market regimes and explores risk using clustering and market features.
-
-`Python` `Pandas` `Scikit-learn` `Streamlit`
-
-[View Repository →](https://github.com/ADxSD-143/quantlens)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ### 🎓 LearnMate AI
 
-An evolving learning platform focused on learning workflows, backend engineering, recommendation ideas and AI/ML experimentation.
+A personalized learning and study-focused project built around smarter learning workflows.
 
-`Python` `FastAPI` `PostgreSQL` `ML`
+`Python` `AI` `Product`
 
-[View Repository →](https://github.com/ADxSD-143/LearnMate-AI)
+<a href="https://github.com/ADxSD-143/LearnMate-AI">
+<img src="https://img.shields.io/badge/View%20Project-161b22?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-</td>
+---
 
-<td width="50%" valign="top">
-
-### 🔧 More in the Lab
-
-Smaller experiments, tools and technical builds live alongside the main projects as ideas move from exploration to implementation.
-
-`Software` `Data` `Experiments`
-
-[Explore Repositories →](https://github.com/ADxSD-143?tab=repositories)
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-## Stack
-
-**Languages**
-
-`Python` `C++` `SQL`
-
-**Data / ML**
-
-`NumPy` `Pandas` `Matplotlib` `Scikit-learn`
-
-**Backend / Database**
-
-`FastAPI` `PostgreSQL` `MongoDB` `Streamlit`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `Jupyter`
-
-<br>
-
-## Learning Path
-
-```text
-Python & Data
-      ↓
-Machine Learning
-      ↓
-Deep Learning
-      ↓
-NLP
-      ↓
-Generative AI
-      ↓
-Agentic AI
-```
-
-Learning the fundamentals first, then building with them.
-
-<br>
-
-## Hackathons & Experiments
-
-### ⚡ Bit N Build '26
-
-Working on an emergency-intelligence project involving data processing, ML and system development.
-
-I learn heavily by building in hackathons, side projects and technical experiments.
-
-<br>
-
-## GitHub Activity
+### Stack
 
 <div align="center">
 
-**Public Builds**
-
-`4 repositories`
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-**Primary Focus**
-
-`Python` `Software` `Data` `ML`
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-**Profile**
-
-[GitHub](https://github.com/ADxSD-143)
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,jupyter,fastapi,postgres,mongodb&theme=dark"/>
 
 <br><br>
 
-[View contribution graph →](https://github.com/ADxSD-143)
+`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `Streamlit`
 
 </div>
 
-<br>
+---
 
-## Build Loop
+### GitHub
 
 <div align="center">
 
-### BUILD
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ADxSD-143&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-↓
-
-### BREAK
-
-↓
-
-### DEBUG
-
-↓
-
-### IMPROVE
-
-↓
-
-### SHIP
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADxSD-143&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### Always building. Always learning.
+**BUILD → BREAK → DEBUG → SHIP**
+
+<sub>Always building. Always learning.</sub>
 
 </div>
