@@ -102,8 +102,8 @@ class Aditya:
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः।</b></p>
-<p align="center"><i>दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः। वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.56</b></p>
-<p align="center">One who is undisturbed in sorrow, free from craving in joy, and free from fear and anger is steady in wisdom.</p>
+<p align="center"><b>त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः।</b></p>
+<p align="center"><i>त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः। कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः॥</i></p>
+<p align="center"><b>Bhagavad Gita 4.20</b></p>
+<p align="center">Giving up attachment to results and staying content, one is free even while fully engaged in action.</p>
 <!-- GITA_QUOTE_END -->
