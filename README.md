@@ -15,10 +15,25 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/252927103?v=4" alt="Krishna-themed GitHub profile avatar" width="260" />
+  <img src="https://avatars.githubusercontent.com/u/252927103?v=4" alt="GitHub profile avatar" width="260" />
 </p>
 
 <p align="center"><i>Inspired by Krishna's wisdom: focus on the work, keep learning, and let results follow.</i></p>
+
+---
+
+## 🪷 A Random Dose of Gita Wisdom
+
+<p align="center">
+  <img src="https://gita-quotes-api.onrender.com/api/v1/quotes/random" alt="A random Bhagavad Gita quote" width="100%" />
+</p>
+
+<p align="center"><i>Different verse, same reminder: do your work with clarity, courage, and detachment.</i></p>
+
+<p align="center">
+  <a href="https://gitaquotes.sahilmishra.dev/">Explore the Gita Quotes API</a> ·
+  <a href="https://github.com/vedicscriptures/bhagavad-gita-api">Open-source Gita API</a>
+</p>
 
 ---
 
