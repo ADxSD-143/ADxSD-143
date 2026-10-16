@@ -22,22 +22,6 @@
 
 ---
 
-## 🪷 A Random Dose of Gita Wisdom
-
-<!-- GITA_QUOTE_START -->
-<p align="center"><b>उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।</b></p>
-
-<p align="center"><i>उद्धरेदात्मनात्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥</i></p>
-
-<p align="center"><b>Bhagavad Gita 6.5</b></p>
-
-<p align="center">Lift yourself through your own effort; do not let yourself fall. Your mind can be your friend or your enemy.</p>
-<!-- GITA_QUOTE_END -->
-
-<p align="center"><i>A new verse is picked automatically each day by GitHub Actions.</i></p>
-
----
-
 ## नमस्ते • About Me
 
 I'm a Computer Science undergraduate at **IIIT Bhubaneswar**, currently focused on **Python, Machine Learning, and NLP**. I like understanding the fundamentals, experimenting with data, and turning what I learn into working projects.
@@ -117,3 +101,17 @@ An educational ML project that explores historical market regimes using K-Means 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c49a48,35:176b75,70:102b4e,100:080d18&height=110&section=footer" width="100%" />
 </p>
+
+---
+
+## 🪷 A Random Dose of Gita Wisdom
+
+<!-- GITA_QUOTE_START -->
+<p align="center"><b>उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।</b></p>
+
+<p align="center"><i>उद्धरेदात्मनात्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥</i></p>
+
+<p align="center"><b>Bhagavad Gita 6.5</b></p>
+
+<p align="center">Lift yourself through your own effort; do not let yourself fall. Your mind can be your friend or your enemy.</p>
+<!-- GITA_QUOTE_END -->
