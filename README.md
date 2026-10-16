@@ -96,8 +96,6 @@ An educational ML project that explores historical market regimes using K-Means 
   <a href="https://github.com/ADxSD-143"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 </p>
 
-<p align="center"><i>“कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।”</i><br/>Bhagavad Gita 2.47 — Your focus is on action, not on the fruits of action.</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c49a48,35:176b75,70:102b4e,100:080d18&height=110&section=footer" width="100%" />
 </p>
