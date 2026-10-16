@@ -98,11 +98,11 @@ class Aditya:
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।</b></p>
+<p align="center"><b>योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।</b></p>
 
-<p align="center"><i>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥</i></p>
+<p align="center"><i>योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय। सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥</i></p>
 
-<p align="center"><b>Bhagavad Gita 2.47</b></p>
+<p align="center"><b>Bhagavad Gita 2.48</b></p>
 
-<p align="center">You have a right to action, but not to the fruits of action. Do not let the results be your motive, and do not become attached to inaction.</p>
+<p align="center">Act with steadiness, letting go of attachment; remain balanced in success and failure.</p>
 <!-- GITA_QUOTE_END -->
