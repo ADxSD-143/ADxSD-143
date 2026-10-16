@@ -1,6 +1,6 @@
 <!-- Krishna-inspired dark theme: midnight blue, peacock teal, restrained gold -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:080d18,40:102b4e,75:176b75,100:c49a48&height=240&section=header&text=Aditya%20Narayan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%AA%B6%20AI%2FML%20Engineer%20in%20Progress%20%7C%20GenAI%20%7C%20Agentic%20AI&descSize=17&descAlignY=60&animation=twinkling" width="100%" alt="Aditya Narayan — AI/ML, GenAI and Backend Development" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:080d18,40:102b4e,75:176b75,100:c49a48&height=240&section=header&text=Aditya%20Narayan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%AA%B6%20AI%2FML%20Engineer%20in%20Progress%20%7C%20GenAI%20%7C%20Backend%20Development&descSize=17&descAlignY=60&animation=twinkling" width="100%" alt="Aditya Narayan — AI/ML, GenAI and Backend Development" />
 </p>
 
 <p align="center">
