@@ -25,13 +25,13 @@
 ## 🪷 A Random Dose of Gita Wisdom
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।</b></p>
+<p align="center"><b>उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।</b></p>
 
-<p align="center"><i>योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय। सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥</i></p>
+<p align="center"><i>उद्धरेदात्मनात्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥</i></p>
 
-<p align="center"><b>Bhagavad Gita 2.48</b></p>
+<p align="center"><b>Bhagavad Gita 6.5</b></p>
 
-<p align="center">Act with steadiness, letting go of attachment; remain balanced in success and failure.</p>
+<p align="center">Lift yourself through your own effort; do not let yourself fall. Your mind can be your friend or your enemy.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><i>A new verse is picked automatically each day by GitHub Actions.</i></p>
