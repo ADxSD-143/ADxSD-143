@@ -102,8 +102,8 @@ class Aditya:
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते।</b></p>
-<p align="center"><i>नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते। स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.40</b></p>
-<p align="center">No effort on this path is ever wasted. Even a little progress protects from great fear.</p>
+<p align="center"><b>वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि।</b></p>
+<p align="center"><i>वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि। तथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.22</b></p>
+<p align="center">As a person discards worn-out clothes for new ones, the soul leaves worn-out bodies and takes new ones.</p>
 <!-- GITA_QUOTE_END -->
