@@ -70,7 +70,7 @@ class Aditya:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADxSD-143&layout=compact&theme=tokyonight&hide_border=true&bg_color=080d18&title_color=68D9D0&hide=TypeScript" alt="Top languages excluding TypeScript" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADxSD-143&bg_color=080d18&color=68D9D0&line=c49a48&point=ffffff&area=true&hide_border=true" alt="Contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 </p>
 
 ## 🤝 Connect
