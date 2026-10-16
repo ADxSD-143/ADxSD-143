@@ -24,16 +24,17 @@
 
 ## 🪷 A Random Dose of Gita Wisdom
 
-<p align="center">
-  <img src="https://gita-quotes-api.onrender.com/api/v1/quotes/random" alt="A random Bhagavad Gita quote" width="100%" />
-</p>
+<!-- GITA_QUOTE_START -->
+<p align="center"><b>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।</b></p>
 
-<p align="center"><i>Different verse, same reminder: do your work with clarity, courage, and detachment.</i></p>
+<p align="center"><i>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥</i></p>
 
-<p align="center">
-  <a href="https://gitaquotes.sahilmishra.dev/">Explore the Gita Quotes API</a> ·
-  <a href="https://github.com/vedicscriptures/bhagavad-gita-api">Open-source Gita API</a>
-</p>
+<p align="center"><b>Bhagavad Gita 2.47</b></p>
+
+<p align="center">You have a right to action, but not to the fruits of action. Do not let the results be your motive, and do not become attached to inaction.</p>
+<!-- GITA_QUOTE_END -->
+
+<p align="center"><i>A new verse is picked automatically each day by GitHub Actions.</i></p>
 
 ---
 
