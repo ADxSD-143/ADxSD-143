@@ -17,4 +17,4 @@ The endpoint sends no-cache headers and selects a verse per request, but GitHub 
 
 ## Health check
 
-Open `https://YOUR-VERCEL-PROJECT.vercel.app/api/gita.svg/health` to check the service. (If the host routes this as a separate path, use the endpoint's response behavior to confirm deployment.)
+Open `https://YOUR-VERCEL-PROJECT.vercel.app/api/gita.svg?health=1` to check the service. It should return `{ "status": "ok" }`.
