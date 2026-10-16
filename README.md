@@ -98,11 +98,7 @@ class Aditya:
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।</b></p>
-
-<p align="center"><i>योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय। सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥</i></p>
-
-<p align="center"><b>Bhagavad Gita 2.48</b></p>
-
-<p align="center">Act with steadiness, letting go of attachment; remain balanced in success and failure.</p>
+<p align="center">
+  <img src="https://adxsd-143.vercel.app/api/gita.svg" width="900" alt="A randomly selected Bhagavad Gita verse with its meaning" />
+</p>
 <!-- GITA_QUOTE_END -->
