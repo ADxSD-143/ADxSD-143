@@ -1,14 +1,13 @@
 <!-- Krishna-inspired dark theme: midnight blue, peacock teal, restrained gold -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:080d18,40:102b4e,75:176b75,100:c49a48&height=240&section=header&text=Aditya%20Narayan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%AA%B6%20AI%2FML%20Engineer%20in%20Progress%20%7C%20GenAI%20%7C%20Agentic%20AI&descSize=17&descAlignY=60&animation=twinkling" width="100%" alt="Aditya Narayan — AI/ML, GenAI and Agentic AI" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:080d18,40:102b4e,75:176b75,100:c49a48&height=240&section=header&text=Aditya%20Narayan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%AA%B6%20AI%2FML%20Engineer%20in%20Progress%20%7C%20GenAI%20%7C%20Agentic%20AI&descSize=17&descAlignY=60&animation=twinkling" width="100%" alt="Aditya Narayan — AI/ML, GenAI and Backend Development" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=68D9D0&center=true&vCenter=true&width=760&lines=Python+%7C+Machine+Learning+%7C+NLP;Building+GenAI+%26+Agentic+AI+systems;Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Ship;Karmanye+vadhikaraste%2C+focus+on+the+work" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=68D9D0&center=true&vCenter=true&width=760&lines=Python+%7C+Machine+Learning+%7C+NLP;Building+GenAI+projects+and+backend+systems;Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Ship;Karmanye+vadhikaraste%2C+focus+on+the+work" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ADxSD-143&label=Profile%20views&color=176b75&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/IIIT-Bhubaneswar-102b4e?style=for-the-badge" alt="IIIT Bhubaneswar" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-c49a48?style=for-the-badge" alt="Open to collaboration" />
 </p>
@@ -23,7 +22,7 @@ I'm a second-year **B.Tech CSE** student at **IIIT Bhubaneswar** building toward
 
 ```python
 class Aditya:
-    focus = ["Machine Learning", "NLP", "GenAI", "Agentic AI"]
+    focus = ["Machine Learning", "NLP", "GenAI", "Backend Development"]
     building = ["LearnMate AI", "QuantLens", "VerityAI"]
     mindset = "Build -> Break -> Debug -> Ship"
     next_up = "Open-source contributions"
@@ -37,11 +36,6 @@ class Aditya:
 | 📈 [**QuantLens**](https://github.com/ADxSD-143/quantlens) | Educational ML project exploring market regimes and risk metrics | Python · scikit-learn · yfinance · Plotly · Streamlit |
 | 🎬 [**Movie Recommendation System**](https://github.com/ADxSD-143/movie-recommendation-system) | Content-based recommender using text preprocessing, CountVectorizer, and cosine similarity | Python · NLTK · scikit-learn · Streamlit |
 
-<p align="center">
-  <a href="https://github.com/ADxSD-143/LearnMate-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ADxSD-143&repo=LearnMate-AI&theme=tokyonight&hide_border=true&bg_color=080d18&title_color=68D9D0&icon_color=c49a48" alt="LearnMate AI repository card" /></a>
-  <a href="https://github.com/ADxSD-143/quantlens"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ADxSD-143&repo=quantlens&theme=tokyonight&hide_border=true&bg_color=080d18&title_color=68D9D0&icon_color=c49a48" alt="QuantLens repository card" /></a>
-  <a href="https://github.com/ADxSD-143/movie-recommendation-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ADxSD-143&repo=movie-recommendation-system&theme=tokyonight&hide_border=true&bg_color=080d18&title_color=68D9D0&icon_color=c49a48" alt="Movie Recommendation System repository card" /></a>
-</p>
 
 ## 🛠️ Tech Stack
 
@@ -53,8 +47,8 @@ class Aditya:
 |---|---|
 | **Languages** | Python, C++ |
 | **ML & Data** | NumPy, Pandas, Matplotlib, scikit-learn, NLTK |
-| **GenAI & Agents** | LLM APIs, prompt engineering, agent workflows (learning) |
-| **Backend & Apps** | FastAPI, Streamlit |
+| **GenAI** | LLM APIs and prompt engineering (learning) |
+| **Backend Development** | FastAPI, REST APIs, Streamlit |
 | **Databases** | SQL, PostgreSQL, MongoDB |
 | **DevOps & Tools** | Git, GitHub, Docker, Linux/WSL, VS Code, Jupyter |
 
@@ -64,7 +58,8 @@ class Aditya:
 - Regression and introductory ML experiments
 - Classification, model evaluation, and feature engineering
 - NLP: text representation and classical ML
-- GenAI and agentic AI systems
+- GenAI fundamentals and applications
+- Backend development with FastAPI and REST APIs
 - Docker and backend practice
 - First open-source contributions
 
