@@ -1,0 +1,62 @@
+name: Daily Gita Wisdom
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-gita-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Pick a random Bhagavad Gita verse
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import random
+          import re
+
+          quotes = [
+              ("कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।", "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥", "2.47", "You have a right to action, but not to the fruits of action. Do not let the results be your motive, and do not become attached to inaction."),
+              ("योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।", "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय। सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥", "2.48", "Act with steadiness, letting go of attachment; remain balanced in success and failure."),
+              ("उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।", "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥", "6.5", "Lift yourself through your own effort; do not let yourself fall. Your mind can be your friend or your enemy."),
+              ("श्रद्धावान् लभते ज्ञानम्।", "श्रद्धावान् लभते ज्ञानं तत्परः संयतेन्द्रियः। ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति॥", "4.39", "A person of faith, discipline, and dedication gains knowledge; through knowledge, peace follows."),
+              ("न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।", "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते। तत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति॥", "4.38", "Nothing here is as purifying as knowledge; with time, one discovers it within through practice.")
+          ]
+
+          title, sanskrit, verse, meaning = random.choice(quotes)
+          block = f"""<!-- GITA_QUOTE_START -->
+          <p align="center"><b>{title}</b></p>
+
+          <p align="center"><i>{sanskrit}</i></p>
+
+          <p align="center"><b>Bhagavad Gita {verse}</b></p>
+
+          <p align="center">{meaning}</p>
+          <!-- GITA_QUOTE_END -->"""
+          path = Path("README.md")
+          text = path.read_text(encoding="utf-8")
+          pattern = r"<!-- GITA_QUOTE_START -->.*?<!-- GITA_QUOTE_END -->"
+          updated, count = re.subn(pattern, block, text, count=1, flags=re.S)
+          if count != 1:
+              raise SystemExit("Could not find GITA_QUOTE markers in README.md")
+          path.write_text(updated, encoding="utf-8")
+          PY
+
+      - name: Commit daily verse
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "Quote did not change; nothing to commit."
+          else
+            git commit -m "chore: refresh daily Gita wisdom"
+            git push
+          fi
