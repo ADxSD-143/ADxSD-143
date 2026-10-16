@@ -93,6 +93,10 @@ class Aditya:
 
 ## 🪷 A Random Dose of Gita Wisdom
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyYTdpbnZnNTFpNWhhdW9iemlyaDVnaTczMW9oamI5a29sbnVudGxyaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Ss0BpYLL2TNJSY46gM/source.gif" width="110" alt="Animated peacock feather" />
+</p>
+
 <!-- GITA_QUOTE_START -->
 <p align="center"><b>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।</b></p>
 
