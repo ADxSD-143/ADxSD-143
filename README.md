@@ -8,14 +8,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Krishna%20Arjuna%20Gita.jpg" alt="Traditional painting of Krishna guiding Arjuna" width="300" />
+  <img src="https://avatars.githubusercontent.com/u/252927103?v=4" alt="Krishna-themed GitHub profile avatar" width="260" />
 </p>
 
 <p align="center"><i>Inspired by Krishna's wisdom: focus on the work, keep learning, and let results follow.</i></p>
@@ -27,7 +27,7 @@
 I'm a Computer Science undergraduate at **IIIT Bhubaneswar**, currently focused on **Python, Machine Learning, and NLP**. I like understanding the fundamentals, experimenting with data, and turning what I learn into working projects.
 
 - 📊 Learning ML through data analysis, feature engineering, and model evaluation
-- 🐍 Python is my primary language
+- 🐍 Building with Python, NumPy, Pandas, and scikit-learn
 - 🧠 Exploring NLP step by step, from preprocessing to classical ML
 - 🛠️ Building practical skills with APIs, databases, Git, and Docker
 
@@ -60,7 +60,7 @@ An educational ML project that explores historical market regimes using K-Means 
 
 | Area | Tools I use / am learning |
 |---|---|
-| **Primary language** | Python |
+| **Languages** | Python, C++ |
 | **ML & data** | NumPy, Pandas, Matplotlib, scikit-learn, NLTK |
 | **Backend & apps** | FastAPI, Streamlit |
 | **Databases** | SQL, PostgreSQL, MongoDB |
@@ -99,5 +99,3 @@ An educational ML project that explores historical market regimes using K-Means 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c49a48,35:176b75,70:102b4e,100:080d18&height=110&section=footer" width="100%" />
 </p>
-
-<!-- GitHub README markdown cannot execute JavaScript. A genuinely random Gita verse on every page refresh requires a reliable image-rendering quote endpoint or a small hosted service; avoid pretending a static verse is random. -->
