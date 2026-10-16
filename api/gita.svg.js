@@ -191,7 +191,7 @@ module.exports = (req, res) => {
   res.setHeader("Expires", "0");
   res.setHeader("Access-Control-Allow-Origin", "*");
 
-  if (req.url && req.url.split("?")[0].endsWith("/health")) {
+  if (req.query?.health === "1") {
     res.setHeader("Content-Type", "application/json; charset=utf-8");
     return res.status(200).send(JSON.stringify({ status: "ok" }));
   }
