@@ -102,8 +102,8 @@ class Aditya:
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>तस्मादसक्तः सततं कार्यं कर्म समाचर।</b></p>
-<p align="center"><i>तस्मादसक्तः सततं कार्यं कर्म समाचर। असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः॥</i></p>
-<p align="center"><b>Bhagavad Gita 3.19</b></p>
-<p align="center">Do your duty without attachment. By working this way, a person reaches the highest.</p>
+<p align="center"><b>नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते।</b></p>
+<p align="center"><i>नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते। स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.40</b></p>
+<p align="center">No effort on this path is ever wasted. Even a little progress protects from great fear.</p>
 <!-- GITA_QUOTE_END -->
