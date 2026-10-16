@@ -91,6 +91,8 @@ An educational ML project that explores historical market regimes using K-Means 
 
 <p align="center">
   <a href="mailto:B125006@iiit-bh.ac.in"><img src="https://img.shields.io/badge/Email-Contact%20Me-c49a48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://www.linkedin.com/in/aditya-narayan-laha-b8a3a0384/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-Message-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ADxSD-143"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 </p>
 
