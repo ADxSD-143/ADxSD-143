@@ -66,8 +66,12 @@ class Aditya:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ADxSD-143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080d18&title_color=68D9D0&icon_color=c49a48&hide_rank=true&hide=contribs" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ADxSD-143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080d18&title_color=68D9D0&icon_color=c49a48&hide_rank=true&hide=contribs" alt="GitHub stats including recent commits, pull requests and issues" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADxSD-143&layout=compact&theme=tokyonight&hide_border=true&bg_color=080d18&title_color=68D9D0&hide=TypeScript" alt="Top languages excluding TypeScript" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ADxSD-143&theme=tokyonight&hide_border=true&background=080d18&ring=68D9D0&fire=c49a48&currStreakLabel=68D9D0" alt="GitHub contribution streak and activity" width="70%" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
