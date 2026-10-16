@@ -98,7 +98,8 @@ class Aditya:
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center">
-  <img src="https://adxsd-143.vercel.app/api/gita.svg" width="900" alt="A randomly selected Bhagavad Gita verse with its meaning" />
-</p>
+<p align="center"><b>तस्मादसक्तः सततं कार्यं कर्म समाचर।</b></p>
+<p align="center"><i>तस्मादसक्तः सततं कार्यं कर्म समाचर। असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः॥</i></p>
+<p align="center"><b>Bhagavad Gita 3.19</b></p>
+<p align="center">Do your duty without attachment. By working this way, a person reaches the highest.</p>
 <!-- GITA_QUOTE_END -->
