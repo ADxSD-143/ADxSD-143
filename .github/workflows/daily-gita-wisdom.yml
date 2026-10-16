@@ -3,7 +3,7 @@ name: Daily Gita Wisdom
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 0 * * *"
+    - cron: "7 * * * *"   # every hour; change to "17 0 * * *" for once a day
 
 permissions:
   contents: write
@@ -15,41 +15,77 @@ jobs:
       - name: Check out profile repository
         uses: actions/checkout@v4
 
-      - name: Pick a random Bhagavad Gita verse
+      - name: Pick a new Bhagavad Gita verse
         run: |
           python - <<'PY'
           from pathlib import Path
           import random
           import re
 
+          # (full verse, reference, meaning)
           quotes = [
-              ("कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।", "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥", "2.47", "You have a right to action, but not to the fruits of action. Do not let the results be your motive, and do not become attached to inaction."),
-              ("योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।", "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय। सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥", "2.48", "Act with steadiness, letting go of attachment; remain balanced in success and failure."),
-              ("उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।", "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥", "6.5", "Lift yourself through your own effort; do not let yourself fall. Your mind can be your friend or your enemy."),
-              ("श्रद्धावान् लभते ज्ञानम्।", "श्रद्धावान् लभते ज्ञानं तत्परः संयतेन्द्रियः। ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति॥", "4.39", "A person of faith, discipline, and dedication gains knowledge; through knowledge, peace follows."),
-              ("न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।", "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते। तत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति॥", "4.38", "Nothing here is as purifying as knowledge; with time, one discovers it within through practice.")
+              ("कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥", "2.47", "You have a right to action, but not to the fruits of action. Do not let the results be your motive, and do not become attached to inaction."),
+              ("योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय। सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥", "2.48", "Act with steadiness, letting go of attachment; remain balanced in success and failure."),
+              ("उद्धरेदात्मनात्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥", "6.5", "Lift yourself through your own effort; do not let yourself fall. Your mind can be your friend or your enemy."),
+              ("श्रद्धावान् लभते ज्ञानं तत्परः संयतेन्द्रियः। ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति॥", "4.39", "A person of faith, discipline, and dedication gains knowledge; through knowledge, peace follows."),
+              ("न हि ज्ञानेन सदृशं पवित्रमिह विद्यते। तत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति॥", "4.38", "Nothing here is as purifying as knowledge; with time, one discovers it within through practice."),
+              ("मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः। आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत॥", "2.14", "Heat and cold, pleasure and pain come and go. They are temporary, so learn to endure them."),
+              ("न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः। अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे॥", "2.20", "The Self is never born and never dies. It is eternal and ancient, and it is not destroyed when the body is."),
+              ("वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि। तथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही॥", "2.22", "As a person discards worn-out clothes for new ones, the soul leaves worn-out bodies and takes new ones."),
+              ("सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ। ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि॥", "2.38", "Treat pleasure and pain, gain and loss, victory and defeat alike, then commit to your duty."),
+              ("बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते। तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्॥", "2.50", "Yoga is skill in action. Strive for it with a steady mind."),
+              ("क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः। स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति॥", "2.63", "Anger clouds judgment, confusion erodes memory, and when the intellect is lost, everything is lost."),
+              ("दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः। वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते॥", "2.56", "One who is undisturbed in sorrow, free from craving in joy, and free from fear and anger is steady in wisdom."),
+              ("आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत्। तद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी॥", "2.70", "Like rivers flowing into a still ocean, desires enter the one who stays unmoved. That person finds peace."),
+              ("तस्मादसक्तः सततं कार्यं कर्म समाचर। असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः॥", "3.19", "Do your duty without attachment. By working this way, a person reaches the highest."),
+              ("यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः। स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते॥", "3.21", "Whatever a respected person does, others follow. Lead by example."),
+              ("श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्। स्वधर्मे निधनं श्रेयः परधर्मो भयावहः॥", "3.35", "It is better to follow your own path imperfectly than another's path perfectly."),
+              ("इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः। मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः॥", "3.42", "The senses are powerful, the mind is higher than the senses, the intellect is higher than the mind, and the Self is beyond all."),
+              ("यदा यदा हि धर्मस्य ग्लानिर्भवति भारत। अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥", "4.7", "Whenever righteousness declines and injustice rises, I manifest myself."),
+              ("कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः। स बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत्॥", "4.18", "One who sees inaction in action and action in inaction is wise among people."),
+              ("तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया। उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः॥", "4.34", "Learn through humility, sincere questions, and service. Those who have seen the truth will teach you."),
+              ("विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि। शुनि चैव श्वपाके च पण्डिताः समदर्शिनः॥", "5.18", "The wise see all beings with an equal eye, whether learned, humble, or otherwise."),
+              ("बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः। अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्॥", "6.6", "For one who has conquered the mind, the mind is a friend. For one who has not, it acts as an enemy."),
+              ("युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु। युक्तस्वप्नावबोधस्य योगो भवति दुःखहा॥", "6.17", "Balance in eating, recreation, work, and sleep makes discipline a remedy for suffering."),
+              ("यतो यतो निश्चरति मनश्चञ्चलमस्थिरम्। ततस्ततो नियम्यैतदात्मन्येव वशं नयेत्॥", "6.26", "Wherever the restless mind wanders, gently bring it back under control."),
+              ("असंशयं महाबाहो मनो दुर्निग्रहं चलम्। अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते॥", "6.35", "The mind is restless and hard to tame, but it can be steadied by practice and detachment."),
+              ("अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते। तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम्॥", "9.22", "For those who stay steadily devoted with a single focus, I provide what they lack and protect what they have."),
+              ("सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज। अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥", "18.66", "Surrender to the divine with trust, and do not grieve."),
+              ("यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः। तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम॥", "18.78", "Where there is wisdom together with determined effort, there are prosperity, victory, and sound judgment."),
+              ("स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः। स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु॥", "18.45", "A person devoted to their own work attains perfection."),
+              ("नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते। स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्॥", "2.40", "No effort on this path is ever wasted. Even a little progress protects from great fear."),
+              ("नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः। शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः॥", "3.8", "Do your duty. Action is better than inaction."),
+              ("ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः। लिप्यते न स पापेन पद्मपत्रमिवाम्भसा॥", "5.10", "One who acts without attachment stays untouched, like a lotus leaf in water."),
+              ("क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते। क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप॥", "2.3", "Do not give in to weakness. Shake off petty fear and rise."),
+              ("त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः। कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः॥", "4.20", "Giving up attachment to results and staying content, one is free even while fully engaged in action."),
+              ("यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः। हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः॥", "12.15", "One who does not disturb the world and is not disturbed by it, free from agitation, is dear to me."),
           ]
 
-          title, sanskrit, verse, meaning = random.choice(quotes)
-          block = f"""<!-- GITA_QUOTE_START -->
-          <p align="center"><b>{title}</b></p>
-
-          <p align="center"><i>{sanskrit}</i></p>
-
-          <p align="center"><b>Bhagavad Gita {verse}</b></p>
-
-          <p align="center">{meaning}</p>
-          <!-- GITA_QUOTE_END -->"""
           path = Path("README.md")
           text = path.read_text(encoding="utf-8")
+
+          # Find the verse currently shown so the new one is always different
+          current = re.search(r"Bhagavad Gita (\d+\.\d+)", text)
+          current_ref = current.group(1) if current else None
+          pool = [q for q in quotes if q[1] != current_ref] or quotes
+          sanskrit, verse, meaning = random.choice(pool)
+          title = sanskrit.split("।")[0] + "।"
+
+          block = f"""<!-- GITA_QUOTE_START -->
+          <p align="center"><b>{title}</b></p>
+          <p align="center"><i>{sanskrit}</i></p>
+          <p align="center"><b>Bhagavad Gita {verse}</b></p>
+          <p align="center">{meaning}</p>
+          <!-- GITA_QUOTE_END -->"""
+
           pattern = r"<!-- GITA_QUOTE_START -->.*?<!-- GITA_QUOTE_END -->"
-          updated, count = re.subn(pattern, block, text, count=1, flags=re.S)
+          updated, count = re.subn(pattern, lambda m: block, text, count=1, flags=re.S)
           if count != 1:
               raise SystemExit("Could not find GITA_QUOTE markers in README.md")
           path.write_text(updated, encoding="utf-8")
           PY
 
-      - name: Commit daily verse
+      - name: Commit new verse
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
