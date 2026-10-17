@@ -102,8 +102,8 @@ class Aditya:
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः।</b></p>
-<p align="center"><i>त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः। कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः॥</i></p>
-<p align="center"><b>Bhagavad Gita 4.20</b></p>
-<p align="center">Giving up attachment to results and staying content, one is free even while fully engaged in action.</p>
+<p align="center"><b>अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते।</b></p>
+<p align="center"><i>अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते। तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम्॥</i></p>
+<p align="center"><b>Bhagavad Gita 9.22</b></p>
+<p align="center">For those who stay steadily devoted with a single focus, I provide what they lack and protect what they have.</p>
 <!-- GITA_QUOTE_END -->
