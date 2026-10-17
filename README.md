@@ -35,7 +35,7 @@ class Aditya(Arjuna):
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**VerityAI**](https://github.com/ADxSD-143/VerityAI) | Evidence-grounded claim-checking concept for gathering and comparing sources before forming a verdict | Python · NLP · FastAPI |
+| [**Gun Detection**](https://github.com/ADxSD-143/Gun-Detection) | Computer-vision project exploring firearm detection using Python and OpenCV | Python · OpenCV · Jupyter Notebook |
 | [**LearnMate AI**](https://github.com/ADxSD-143/LearnMate-AI) | Personalized learning platform exploring learning patterns, performance prediction, and study recommendations | Python · FastAPI · ML |
 | [**QuantLens**](https://github.com/ADxSD-143/quantlens) | Educational ML project exploring market regimes and risk metrics | Python · scikit-learn · yfinance · Plotly · Streamlit |
 | [**Movie Recommendation System**](https://github.com/ADxSD-143/movie-recommendation-system) | Content-based recommender using text preprocessing, CountVectorizer, and cosine similarity | Python · NLTK · scikit-learn · Streamlit |
