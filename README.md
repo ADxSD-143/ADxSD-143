@@ -1,83 +1,106 @@
 <!-- Krishna-inspired dark theme: midnight blue, peacock teal, restrained gold -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:080d18,40:102b4e,75:176b75,100:c49a48&height=240&section=header&text=Aditya%20Narayan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%AA%B6%20AI%2FML%20Engineer%20in%20Progress%20%7C%20GenAI%20%7C%20Backend%20Development&descSize=17&descAlignY=60&animation=twinkling" width="100%" alt="Aditya Narayan — AI/ML, GenAI and Backend Development" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=68D9D0&center=true&vCenter=true&width=760&lines=Python+%7C+Machine+Learning+%7C+NLP;Building+GenAI+projects+and+backend+systems;Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Ship;Karmanye+vadhikaraste%2C+focus+on+the+work" alt="Typing animation" />
+  <img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/header.svg" width="100%" alt="Aditya Narayan — AI/ML engineer in progress, guided by Krishna-inspired values" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/IIIT-Bhubaneswar-102b4e?style=for-the-badge" alt="IIIT Bhubaneswar" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-c49a48?style=for-the-badge" alt="Open to collaboration" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%2FML%20%7C%20NLP%20%7C%20GenAI-176b75?style=for-the-badge" alt="AI ML, NLP and GenAI focus" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-Collaboration-c49a48?style=for-the-badge" alt="Open to collaboration" />
 </p>
 
-<p align="center"><i>🪶 Focus on the work, keep learning, let results follow.</i></p>
+<p align="center"><i>योगस्थः कुरु कर्माणि — Stay grounded. Do the work. Keep learning.</i></p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/divider.svg" width="100%" alt="" /></p>
 
-## 🪈 About Me
+## 🪷 Ātma-Paricaya · About Me
 
-I'm a second-year **B.Tech CSE** student at **IIIT Bhubaneswar** building toward a career in **AI/ML engineering**. I like understanding fundamentals, experimenting with data, and shipping working projects.
+I'm a **B.Tech Computer Science student at IIIT Bhubaneswar** building toward AI/ML engineering. I enjoy understanding the fundamentals behind models, learning by implementing, and turning experiments into useful software. My current focus is **Machine Learning, NLP, GenAI fundamentals, and backend development**.
+
+My profile takes inspiration from Krishna's guidance in the Bhagavad Gita: put your attention on the quality of the work, stay curious, and keep moving forward without being controlled by the outcome.
 
 ```python
-class Aditya:
-    focus = ["Machine Learning", "NLP", "GenAI", "Backend Development"]
-    building = ["LearnMate AI", "QuantLens", "VerityAI"]
-    mindset = "Build -> Break -> Debug -> Ship"
-    next_up = "Open-source contributions"
+class Aditya(Arjuna):
+    guide = "Krishna"  # the sarathi: wisdom before action
+    dharma = ["Machine Learning", "NLP", "GenAI", "Backend Development"]
+    karma = "Build -> Break -> Debug -> Ship"
+    phala = "Learn from outcomes; don't chase validation"  # Gita 2.47
+    current_quests = ["LearnMate AI", "QuantLens", "VerityAI"]
+    next_yudh = "Consistent open-source contributions"
 ```
 
-## 🚀 Projects
+<p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/divider.svg" width="100%" alt="" /></p>
+
+## ⚔️ Karma · Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🎓 [**LearnMate AI**](https://github.com/ADxSD-143/LearnMate-AI) | Personalized learning platform exploring learning patterns, performance prediction, and study recommendations | Python · FastAPI · ML |
-| 📈 [**QuantLens**](https://github.com/ADxSD-143/quantlens) | Educational ML project exploring market regimes and risk metrics | Python · scikit-learn · yfinance · Plotly · Streamlit |
-| 🎬 [**Movie Recommendation System**](https://github.com/ADxSD-143/movie-recommendation-system) | Content-based recommender using text preprocessing, CountVectorizer, and cosine similarity | Python · NLTK · scikit-learn · Streamlit |
+| [**VerityAI**](https://github.com/ADxSD-143/VerityAI) | Evidence-grounded claim-checking concept for gathering and comparing sources before forming a verdict | Python · NLP · FastAPI |
+| [**LearnMate AI**](https://github.com/ADxSD-143/LearnMate-AI) | Personalized learning platform exploring learning patterns, performance prediction, and study recommendations | Python · FastAPI · ML |
+| [**QuantLens**](https://github.com/ADxSD-143/quantlens) | Educational ML project exploring market regimes and risk metrics | Python · scikit-learn · yfinance · Plotly · Streamlit |
+| [**Movie Recommendation System**](https://github.com/ADxSD-143/movie-recommendation-system) | Content-based recommender using text preprocessing, CountVectorizer, and cosine similarity | Python · NLTK · scikit-learn · Streamlit |
 
+<p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/divider.svg" width="100%" alt="" /></p>
 
-## 🛠️ Tech Stack
+## 🧠 Astra-Śastra · Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,docker,postgres,mongodb,git,github,linux,vscode,jupyter&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,docker,postgres,mongodb,git,github,linux,vscode,jupyter&theme=dark" alt="Python, C++, FastAPI, Docker, PostgreSQL, MongoDB, Git, GitHub, Linux, VS Code and Jupyter" />
 </p>
 
-| Area | Tools |
+| Domain | Current toolkit / focus |
 |---|---|
-| **Languages** | Python, C++ |
-| **ML & Data** | NumPy, Pandas, Matplotlib, scikit-learn, NLTK |
-| **GenAI** | LLM APIs and prompt engineering (learning) |
-| **Backend Development** | FastAPI, REST APIs, Streamlit |
+| **Programming** | Python, C++ |
+| **Data & ML** | NumPy, Pandas, Matplotlib, scikit-learn, regression and model evaluation |
+| **NLP** | Text preprocessing, text representation, NLTK, classical NLP/ML workflows |
+| **GenAI** | LLM concepts, prompt engineering, evidence-grounded AI applications — actively learning |
+| **Backend** | FastAPI, REST APIs, Streamlit |
 | **Databases** | SQL, PostgreSQL, MongoDB |
-| **DevOps & Tools** | Git, GitHub, Docker, Linux/WSL, VS Code, Jupyter |
+| **Developer workflow** | Git, GitHub, Docker, Linux/WSL, VS Code, Jupyter |
 
-## 🧭 Learning Roadmap
+<p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/divider.svg" width="100%" alt="" /></p>
 
-- Python, data analysis, and visualization
+## 🎯 Dṛṣṭi · Vision & Direction
+
+I want to become an engineer who understands **why a system works**, not only how to make a demo run. My direction is to build reliable AI products by combining ML fundamentals, thoughtful data work, evidence-aware language systems, and solid backend engineering.
+
+| Near-term priority | What progress looks like |
+|---|---|
+| **Strengthen ML foundations** | Move from regression to classification, evaluation, and sound validation practice |
+| **Build complete AI systems** | Turn experiments into testable APIs and usable applications |
+| **Learn NLP and GenAI deeply** | Understand preprocessing, representations, model behavior, retrieval, and evidence quality |
+| **Grow through open source** | Read real codebases, choose good-first issues carefully, and make reviewed contributions |
+
+## 📖 Jñāna-Yātrā · Learning Journey
+
+- Python, NumPy/Pandas, data analysis and visualization
 - Regression and introductory ML experiments
-- Classification, model evaluation, and feature engineering
-- NLP: text representation and classical ML
+- Classification, model evaluation and feature engineering — in progress
+- NLP: text representation and classical ML workflows
 - GenAI fundamentals and applications
-- Backend development with FastAPI and REST APIs
-- Docker and backend practice
-- First open-source contributions
+- FastAPI, REST APIs, SQL/PostgreSQL and Docker practice
+- Open-source contribution journey
 
-## 📊 GitHub Stats
+<p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/divider.svg" width="100%" alt="" /></p>
+
+## 📊 Karma-Lekha · GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ADxSD-143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080d18&title_color=68D9D0&icon_color=c49a48&hide_rank=true&hide=contribs" alt="GitHub stats including recent commits, pull requests and issues" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADxSD-143&layout=compact&theme=tokyonight&hide_border=true&bg_color=080d18&title_color=68D9D0&hide=TypeScript" alt="Top languages excluding TypeScript" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ADxSD-143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080d18&title_color=68D9D0&icon_color=c49a48&hide_rank=true&hide=contribs" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADxSD-143&layout=compact&theme=tokyonight&hide_border=true&bg_color=080d18&title_color=68D9D0&hide=TypeScript" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ADxSD-143&theme=tokyonight&hide_border=true&background=080d18&ring=68D9D0&fire=c49a48&currStreakLabel=68D9D0" alt="GitHub contribution streak and activity" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=ADxSD-143&theme=tokyonight&hide_border=true&background=080d18&ring=68D9D0&fire=c49a48&currStreakLabel=68D9D0" alt="GitHub contribution streak" width="76%" />
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 </p>
 
-## 🤝 Connect
+<p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/divider.svg" width="100%" alt="" /></p>
+
+## 🤝 Satsang · Connect
 
 <p align="center">
   <a href="mailto:B125006@iiit-bh.ac.in"><img src="https://img.shields.io/badge/Email-Contact%20Me-c49a48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -85,20 +108,12 @@ class Aditya:
   <a href="https://github.com/ADxSD-143"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=C49A48&center=true&vCenter=true&width=700&lines=You+have+the+right+to+the+work%2C+not+to+its+fruits.;Stay+curious.+Keep+doing+your+dharma" alt="Gita-inspired wisdom" />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/divider.svg" width="100%" alt="" /></p>
+
+## 🪶 A Random Dose of Gita Wisdom
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c49a48,35:176b75,70:102b4e,100:080d18&height=110&section=footer" width="100%" alt="Footer" />
-</p>
-
----
-
-## 🪷 A Random Dose of Gita Wisdom
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyYTdpbnZnNTFpNWhhdW9iemlyaDVnaTczMW9oamI5a29sbnVudGxyaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Ss0BpYLL2TNJSY46gM/source.gif" width="110" alt="Animated peacock feather" />
+  <img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/feather.svg" width="110" alt="Swaying peacock feather" />
 </p>
 
 <!-- GITA_QUOTE_START -->
@@ -107,3 +122,5 @@ class Aditya:
 <p align="center"><b>Bhagavad Gita 4.34</b></p>
 <p align="center">Learn through humility, sincere questions, and service. Those who have seen the truth will teach you.</p>
 <!-- GITA_QUOTE_END -->
+
+<p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
