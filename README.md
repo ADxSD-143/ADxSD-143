@@ -37,7 +37,7 @@ class Aditya(Arjuna):
 |---|---|---|---|
 | [**Gun Detection**](https://github.com/ADxSD-143/Gun-Detection) | Complete · Notebook | Experimental webcam-based object classification using a CLIP-based zero-shot approach and ONNX Runtime. Research/demo only, not a safety-reliable detector. | Python · OpenCV · ONNX Runtime · Jupyter Notebook |
 | [**LearnMate AI**](https://github.com/ADxSD-143/LearnMate-AI) | In progress | Personalized learning platform; backend foundation is built while AI, retrieval, and frontend features continue to evolve. | Python · FastAPI · PostgreSQL |
-| [**QuantLens**](https://github.com/ADxSD-143/quantlens) | Complete · Streamlit deployed | ML dashboard for market-regime discovery and quantitative risk analysis. | Python · scikit-learn · yfinance · Plotly · Streamlit |
+| [**QuantLens**](https://github.com/ADxSD-143/quantlens) | Complete · Streamlit deployed | ML dashboard for market-regime discovery and quantitative risk analysis. [**Live Demo ↗**](https://quantlens-adxsd.streamlit.app/) | Python · scikit-learn · yfinance · Plotly · Streamlit |
 | [**Movie Recommendation System**](https://github.com/ADxSD-143/movie-recommendation-system) | Complete · Streamlit deployed | Content-based movie recommender using NLP preprocessing, CountVectorizer, and cosine similarity. [**Live Demo ↗**](https://movie-recommendation-system-adxsd.streamlit.app/) | Python · NLTK · scikit-learn · Streamlit |
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/divider.svg" width="100%" alt="" /></p>
