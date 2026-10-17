@@ -102,8 +102,8 @@ class Aditya:
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते।</b></p>
-<p align="center"><i>अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते। तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम्॥</i></p>
-<p align="center"><b>Bhagavad Gita 9.22</b></p>
-<p align="center">For those who stay steadily devoted with a single focus, I provide what they lack and protect what they have.</p>
+<p align="center"><b>क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः।</b></p>
+<p align="center"><i>क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः। स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.63</b></p>
+<p align="center">Anger clouds judgment, confusion erodes memory, and when the intellect is lost, everything is lost.</p>
 <!-- GITA_QUOTE_END -->
