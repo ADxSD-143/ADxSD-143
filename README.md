@@ -25,7 +25,7 @@ class Aditya(Arjuna):
     dharma = ["Machine Learning", "NLP", "GenAI", "Backend Development"]
     karma = "Build -> Break -> Debug -> Ship"
     phala = "Learn from outcomes; don't chase validation"  # Gita 2.47
-    current_quests = ["LearnMate AI", "QuantLens", "VerityAI"]
+    current_quests = ["LearnMate AI (in progress)", "Open-source contributions"]
     next_yudh = "Consistent open-source contributions"
 ```
 
@@ -33,12 +33,12 @@ class Aditya(Arjuna):
 
 ## ⚔️ Karma · Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Gun Detection**](https://github.com/ADxSD-143/Gun-Detection) | Computer-vision project exploring firearm detection using Python and OpenCV | Python · OpenCV · Jupyter Notebook |
-| [**LearnMate AI**](https://github.com/ADxSD-143/LearnMate-AI) | Personalized learning platform exploring learning patterns, performance prediction, and study recommendations | Python · FastAPI · ML |
-| [**QuantLens**](https://github.com/ADxSD-143/quantlens) | Educational ML project exploring market regimes and risk metrics | Python · scikit-learn · yfinance · Plotly · Streamlit |
-| [**Movie Recommendation System**](https://github.com/ADxSD-143/movie-recommendation-system) | Content-based recommender using text preprocessing, CountVectorizer, and cosine similarity | Python · NLTK · scikit-learn · Streamlit |
+| Project | Status | What it does | Stack / Demo |
+|---|---|---|---|
+| [**Gun Detection**](https://github.com/ADxSD-143/Gun-Detection) | Complete · Notebook | Experimental webcam-based object classification using a CLIP-based zero-shot approach and ONNX Runtime. Research/demo only, not a safety-reliable detector. | Python · OpenCV · ONNX Runtime · Jupyter Notebook |
+| [**LearnMate AI**](https://github.com/ADxSD-143/LearnMate-AI) | In progress | Personalized learning platform; backend foundation is built while AI, retrieval, and frontend features continue to evolve. | Python · FastAPI · PostgreSQL |
+| [**QuantLens**](https://github.com/ADxSD-143/quantlens) | Complete · Streamlit deployed | ML dashboard for market-regime discovery and quantitative risk analysis. | Python · scikit-learn · yfinance · Plotly · Streamlit |
+| [**Movie Recommendation System**](https://github.com/ADxSD-143/movie-recommendation-system) | Complete · Streamlit deployed | Content-based movie recommender using NLP preprocessing, CountVectorizer, and cosine similarity. [**Live Demo ↗**](https://movie-recommendation-system-adxsd.streamlit.app/) | Python · NLTK · scikit-learn · Streamlit |
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/divider.svg" width="100%" alt="" /></p>
 
