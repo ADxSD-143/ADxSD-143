@@ -102,8 +102,8 @@ class Aditya:
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः।</b></p>
-<p align="center"><i>क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः। स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.63</b></p>
-<p align="center">Anger clouds judgment, confusion erodes memory, and when the intellect is lost, everything is lost.</p>
+<p align="center"><b>श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।</b></p>
+<p align="center"><i>श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्। स्वधर्मे निधनं श्रेयः परधर्मो भयावहः॥</i></p>
+<p align="center"><b>Bhagavad Gita 3.35</b></p>
+<p align="center">It is better to follow your own path imperfectly than another's path perfectly.</p>
 <!-- GITA_QUOTE_END -->
