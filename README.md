@@ -102,8 +102,8 @@ class Aditya:
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।</b></p>
-<p align="center"><i>श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्। स्वधर्मे निधनं श्रेयः परधर्मो भयावहः॥</i></p>
-<p align="center"><b>Bhagavad Gita 3.35</b></p>
-<p align="center">It is better to follow your own path imperfectly than another's path perfectly.</p>
+<p align="center"><b>तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया।</b></p>
+<p align="center"><i>तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया। उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः॥</i></p>
+<p align="center"><b>Bhagavad Gita 4.34</b></p>
+<p align="center">Learn through humility, sincere questions, and service. Those who have seen the truth will teach you.</p>
 <!-- GITA_QUOTE_END -->
