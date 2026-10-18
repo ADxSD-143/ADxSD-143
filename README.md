@@ -91,7 +91,7 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ADxSD-143&theme=tokyonight&hide_border=true&background=080d18&ring=68D9D0&fire=c49a48&currStreakLabel=68D9D0" alt="GitHub contribution streak" width="76%" />
+  <img src="https://streak-stats.demolab.com?user=ADxSD-143&theme=tokyonight&hide_border=true&background=080d18&ring=68D9D0&fire=c49a48&currStreakLabel=68D9D0&v=20261018" alt="GitHub contribution streak" width="76%" />
 </p>
 
 <p align="center">
