@@ -117,10 +117,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः।</b></p>
-<p align="center"><i>स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः। स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु॥</i></p>
-<p align="center"><b>Bhagavad Gita 18.45</b></p>
-<p align="center">A person devoted to their own work attains perfection.</p>
+<p align="center"><b>श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।</b></p>
+<p align="center"><i>श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्। स्वधर्मे निधनं श्रेयः परधर्मो भयावहः॥</i></p>
+<p align="center"><b>Bhagavad Gita 3.35</b></p>
+<p align="center">It is better to follow your own path imperfectly than another's path perfectly.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
