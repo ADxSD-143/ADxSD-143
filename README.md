@@ -117,10 +117,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।</b></p>
-<p align="center"><i>युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु। युक्तस्वप्नावबोधस्य योगो भवति दुःखहा॥</i></p>
-<p align="center"><b>Bhagavad Gita 6.17</b></p>
-<p align="center">Balance in eating, recreation, work, and sleep makes discipline a remedy for suffering.</p>
+<p align="center"><b>आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत्।</b></p>
+<p align="center"><i>आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत्। तद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.70</b></p>
+<p align="center">Like rivers flowing into a still ocean, desires enter the one who stays unmoved. That person finds peace.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
