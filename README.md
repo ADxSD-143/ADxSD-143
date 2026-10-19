@@ -117,10 +117,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।</b></p>
-<p align="center"><i>मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः। आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.14</b></p>
-<p align="center">Heat and cold, pleasure and pain come and go. They are temporary, so learn to endure them.</p>
+<p align="center"><b>बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः।</b></p>
+<p align="center"><i>बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः। अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्॥</i></p>
+<p align="center"><b>Bhagavad Gita 6.6</b></p>
+<p align="center">For one who has conquered the mind, the mind is a friend. For one who has not, it acts as an enemy.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
