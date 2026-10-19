@@ -117,10 +117,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः।</b></p>
-<p align="center"><i>बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः। अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्॥</i></p>
-<p align="center"><b>Bhagavad Gita 6.6</b></p>
-<p align="center">For one who has conquered the mind, the mind is a friend. For one who has not, it acts as an enemy.</p>
+<p align="center"><b>इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः।</b></p>
+<p align="center"><i>इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः। मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः॥</i></p>
+<p align="center"><b>Bhagavad Gita 3.42</b></p>
+<p align="center">The senses are powerful, the mind is higher than the senses, the intellect is higher than the mind, and the Self is beyond all.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
