@@ -117,10 +117,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत्।</b></p>
-<p align="center"><i>आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत्। तद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.70</b></p>
-<p align="center">Like rivers flowing into a still ocean, desires enter the one who stays unmoved. That person finds peace.</p>
+<p align="center"><b>तस्मादसक्तः सततं कार्यं कर्म समाचर।</b></p>
+<p align="center"><i>तस्मादसक्तः सततं कार्यं कर्म समाचर। असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः॥</i></p>
+<p align="center"><b>Bhagavad Gita 3.19</b></p>
+<p align="center">Do your duty without attachment. By working this way, a person reaches the highest.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
