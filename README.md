@@ -117,10 +117,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ।</b></p>
-<p align="center"><i>सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ। ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.38</b></p>
-<p align="center">Treat pleasure and pain, gain and loss, victory and defeat alike, then commit to your duty.</p>
+<p align="center"><b>श्रद्धावान् लभते ज्ञानं तत्परः संयतेन्द्रियः।</b></p>
+<p align="center"><i>श्रद्धावान् लभते ज्ञानं तत्परः संयतेन्द्रियः। ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति॥</i></p>
+<p align="center"><b>Bhagavad Gita 4.39</b></p>
+<p align="center">A person of faith, discipline, and dedication gains knowledge; through knowledge, peace follows.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
