@@ -117,10 +117,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि।</b></p>
-<p align="center"><i>विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि। शुनि चैव श्वपाके च पण्डिताः समदर्शिनः॥</i></p>
-<p align="center"><b>Bhagavad Gita 5.18</b></p>
-<p align="center">The wise see all beings with an equal eye, whether learned, humble, or otherwise.</p>
+<p align="center"><b>तस्मादसक्तः सततं कार्यं कर्म समाचर।</b></p>
+<p align="center"><i>तस्मादसक्तः सततं कार्यं कर्म समाचर। असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः॥</i></p>
+<p align="center"><b>Bhagavad Gita 3.19</b></p>
+<p align="center">Do your duty without attachment. By working this way, a person reaches the highest.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
