@@ -117,10 +117,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः।</b></p>
-<p align="center"><i>ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः। लिप्यते न स पापेन पद्मपत्रमिवाम्भसा॥</i></p>
-<p align="center"><b>Bhagavad Gita 5.10</b></p>
-<p align="center">One who acts without attachment stays untouched, like a lotus leaf in water.</p>
+<p align="center"><b>अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते।</b></p>
+<p align="center"><i>अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते। तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम्॥</i></p>
+<p align="center"><b>Bhagavad Gita 9.22</b></p>
+<p align="center">For those who stay steadily devoted with a single focus, I provide what they lack and protect what they have.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
