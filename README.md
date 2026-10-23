@@ -105,6 +105,7 @@ I want to become an engineer who understands **why a system works**, not only ho
 <p align="center">
   <a href="mailto:B125006@iiit-bh.ac.in"><img src="https://img.shields.io/badge/Email-Contact%20Me-c49a48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/aditya-narayan-laha-b8a3a0384/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/adiityanarayan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@adiityanarayan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: @adiityanarayan" /></a>
   <a href="https://github.com/ADxSD-143"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
