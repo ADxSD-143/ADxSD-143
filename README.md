@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।</b></p>
-<p align="center"><i>योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय। सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.48</b></p>
-<p align="center">Act with steadiness, letting go of attachment; remain balanced in success and failure.</p>
+<p align="center"><b>कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः।</b></p>
+<p align="center"><i>कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः। स बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत्॥</i></p>
+<p align="center"><b>Bhagavad Gita 4.18</b></p>
+<p align="center">One who sees inaction in action and action in inaction is wise among people.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
