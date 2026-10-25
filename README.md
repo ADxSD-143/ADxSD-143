@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः।</b></p>
-<p align="center"><i>बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः। अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्॥</i></p>
-<p align="center"><b>Bhagavad Gita 6.6</b></p>
-<p align="center">For one who has conquered the mind, the mind is a friend. For one who has not, it acts as an enemy.</p>
+<p align="center"><b>न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः।</b></p>
+<p align="center"><i>न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः। अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.20</b></p>
+<p align="center">The Self is never born and never dies. It is eternal and ancient, and it is not destroyed when the body is.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
