@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।</b></p>
-<p align="center"><i>युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु। युक्तस्वप्नावबोधस्य योगो भवति दुःखहा॥</i></p>
-<p align="center"><b>Bhagavad Gita 6.17</b></p>
-<p align="center">Balance in eating, recreation, work, and sleep makes discipline a remedy for suffering.</p>
+<p align="center"><b>असंशयं महाबाहो मनो दुर्निग्रहं चलम्।</b></p>
+<p align="center"><i>असंशयं महाबाहो मनो दुर्निग्रहं चलम्। अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते॥</i></p>
+<p align="center"><b>Bhagavad Gita 6.35</b></p>
+<p align="center">The mind is restless and hard to tame, but it can be steadied by practice and detachment.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
