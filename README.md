@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः।</b></p>
-<p align="center"><i>यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः। हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः॥</i></p>
-<p align="center"><b>Bhagavad Gita 12.15</b></p>
-<p align="center">One who does not disturb the world and is not disturbed by it, free from agitation, is dear to me.</p>
+<p align="center"><b>दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः।</b></p>
+<p align="center"><i>दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः। वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.56</b></p>
+<p align="center">One who is undisturbed in sorrow, free from craving in joy, and free from fear and anger is steady in wisdom.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
