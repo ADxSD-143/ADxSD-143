@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि।</b></p>
-<p align="center"><i>वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि। तथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.22</b></p>
-<p align="center">As a person discards worn-out clothes for new ones, the soul leaves worn-out bodies and takes new ones.</p>
+<p align="center"><b>बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते।</b></p>
+<p align="center"><i>बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते। तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.50</b></p>
+<p align="center">Yoga is skill in action. Strive for it with a steady mind.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
