@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः।</b></p>
-<p align="center"><i>न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः। अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.20</b></p>
-<p align="center">The Self is never born and never dies. It is eternal and ancient, and it is not destroyed when the body is.</p>
+<p align="center"><b>त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः।</b></p>
+<p align="center"><i>त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः। कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः॥</i></p>
+<p align="center"><b>Bhagavad Gita 4.20</b></p>
+<p align="center">Giving up attachment to results and staying content, one is free even while fully engaged in action.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
