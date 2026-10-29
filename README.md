@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।</b></p>
-<p align="center"><i>सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज। अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥</i></p>
-<p align="center"><b>Bhagavad Gita 18.66</b></p>
-<p align="center">Surrender to the divine with trust, and do not grieve.</p>
+<p align="center"><b>विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि।</b></p>
+<p align="center"><i>विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि। शुनि चैव श्वपाके च पण्डिताः समदर्शिनः॥</i></p>
+<p align="center"><b>Bhagavad Gita 5.18</b></p>
+<p align="center">The wise see all beings with an equal eye, whether learned, humble, or otherwise.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
