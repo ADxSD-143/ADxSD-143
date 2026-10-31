@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>श्रद्धावान् लभते ज्ञानं तत्परः संयतेन्द्रियः।</b></p>
-<p align="center"><i>श्रद्धावान् लभते ज्ञानं तत्परः संयतेन्द्रियः। ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति॥</i></p>
-<p align="center"><b>Bhagavad Gita 4.39</b></p>
-<p align="center">A person of faith, discipline, and dedication gains knowledge; through knowledge, peace follows.</p>
+<p align="center"><b>आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत्।</b></p>
+<p align="center"><i>आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत्। तद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.70</b></p>
+<p align="center">Like rivers flowing into a still ocean, desires enter the one who stays unmoved. That person finds peace.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
