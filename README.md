@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ।</b></p>
-<p align="center"><i>सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ। ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.38</b></p>
-<p align="center">Treat pleasure and pain, gain and loss, victory and defeat alike, then commit to your duty.</p>
+<p align="center"><b>न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः।</b></p>
+<p align="center"><i>न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः। अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.20</b></p>
+<p align="center">The Self is never born and never dies. It is eternal and ancient, and it is not destroyed when the body is.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
