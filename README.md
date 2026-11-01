@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।</b></p>
-<p align="center"><i>श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्। स्वधर्मे निधनं श्रेयः परधर्मो भयावहः॥</i></p>
-<p align="center"><b>Bhagavad Gita 3.35</b></p>
-<p align="center">It is better to follow your own path imperfectly than another's path perfectly.</p>
+<p align="center"><b>यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः।</b></p>
+<p align="center"><i>यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः। हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः॥</i></p>
+<p align="center"><b>Bhagavad Gita 12.15</b></p>
+<p align="center">One who does not disturb the world and is not disturbed by it, free from agitation, is dear to me.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
