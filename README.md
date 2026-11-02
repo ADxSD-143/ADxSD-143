@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।</b></p>
-<p align="center"><i>उद्धरेदात्मनात्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥</i></p>
-<p align="center"><b>Bhagavad Gita 6.5</b></p>
-<p align="center">Lift yourself through your own effort; do not let yourself fall. Your mind can be your friend or your enemy.</p>
+<p align="center"><b>न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः।</b></p>
+<p align="center"><i>न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः। अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.20</b></p>
+<p align="center">The Self is never born and never dies. It is eternal and ancient, and it is not destroyed when the body is.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
