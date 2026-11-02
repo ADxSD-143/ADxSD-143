@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते।</b></p>
-<p align="center"><i>बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते। तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.50</b></p>
-<p align="center">Yoga is skill in action. Strive for it with a steady mind.</p>
+<p align="center"><b>उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।</b></p>
+<p align="center"><i>उद्धरेदात्मनात्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥</i></p>
+<p align="center"><b>Bhagavad Gita 6.5</b></p>
+<p align="center">Lift yourself through your own effort; do not let yourself fall. Your mind can be your friend or your enemy.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
