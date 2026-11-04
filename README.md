@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।</b></p>
-<p align="center"><i>मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः। आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.14</b></p>
-<p align="center">Heat and cold, pleasure and pain come and go. They are temporary, so learn to endure them.</p>
+<p align="center"><b>सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।</b></p>
+<p align="center"><i>सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज। अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥</i></p>
+<p align="center"><b>Bhagavad Gita 18.66</b></p>
+<p align="center">Surrender to the divine with trust, and do not grieve.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
