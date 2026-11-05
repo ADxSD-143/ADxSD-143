@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>श्रद्धावान् लभते ज्ञानं तत्परः संयतेन्द्रियः।</b></p>
-<p align="center"><i>श्रद्धावान् लभते ज्ञानं तत्परः संयतेन्द्रियः। ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति॥</i></p>
-<p align="center"><b>Bhagavad Gita 4.39</b></p>
-<p align="center">A person of faith, discipline, and dedication gains knowledge; through knowledge, peace follows.</p>
+<p align="center"><b>विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि।</b></p>
+<p align="center"><i>विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि। शुनि चैव श्वपाके च पण्डिताः समदर्शिनः॥</i></p>
+<p align="center"><b>Bhagavad Gita 5.18</b></p>
+<p align="center">The wise see all beings with an equal eye, whether learned, humble, or otherwise.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
