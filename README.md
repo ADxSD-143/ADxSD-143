@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः।</b></p>
-<p align="center"><i>यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः। तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम॥</i></p>
-<p align="center"><b>Bhagavad Gita 18.78</b></p>
-<p align="center">Where there is wisdom together with determined effort, there are prosperity, victory, and sound judgment.</p>
+<p align="center"><b>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।</b></p>
+<p align="center"><i>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.47</b></p>
+<p align="center">You have a right to action, but not to the fruits of action. Do not let the results be your motive, and do not become attached to inaction.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
