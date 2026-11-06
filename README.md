@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।</b></p>
-<p align="center"><i>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.47</b></p>
-<p align="center">You have a right to action, but not to the fruits of action. Do not let the results be your motive, and do not become attached to inaction.</p>
+<p align="center"><b>असंशयं महाबाहो मनो दुर्निग्रहं चलम्।</b></p>
+<p align="center"><i>असंशयं महाबाहो मनो दुर्निग्रहं चलम्। अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते॥</i></p>
+<p align="center"><b>Bhagavad Gita 6.35</b></p>
+<p align="center">The mind is restless and hard to tame, but it can be steadied by practice and detachment.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
