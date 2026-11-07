@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>असंशयं महाबाहो मनो दुर्निग्रहं चलम्।</b></p>
-<p align="center"><i>असंशयं महाबाहो मनो दुर्निग्रहं चलम्। अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते॥</i></p>
-<p align="center"><b>Bhagavad Gita 6.35</b></p>
-<p align="center">The mind is restless and hard to tame, but it can be steadied by practice and detachment.</p>
+<p align="center"><b>सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ।</b></p>
+<p align="center"><i>सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ। ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.38</b></p>
+<p align="center">Treat pleasure and pain, gain and loss, victory and defeat alike, then commit to your duty.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
