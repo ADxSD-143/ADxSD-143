@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।</b></p>
-<p align="center"><i>मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः। आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.14</b></p>
-<p align="center">Heat and cold, pleasure and pain come and go. They are temporary, so learn to endure them.</p>
+<p align="center"><b>न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः।</b></p>
+<p align="center"><i>न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः। अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.20</b></p>
+<p align="center">The Self is never born and never dies. It is eternal and ancient, and it is not destroyed when the body is.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
