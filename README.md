@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत्।</b></p>
-<p align="center"><i>आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत्। तद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.70</b></p>
-<p align="center">Like rivers flowing into a still ocean, desires enter the one who stays unmoved. That person finds peace.</p>
+<p align="center"><b>न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।</b></p>
+<p align="center"><i>न हि ज्ञानेन सदृशं पवित्रमिह विद्यते। तत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति॥</i></p>
+<p align="center"><b>Bhagavad Gita 4.38</b></p>
+<p align="center">Nothing here is as purifying as knowledge; with time, one discovers it within through practice.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
