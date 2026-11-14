@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः।</b></p>
-<p align="center"><i>बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः। अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्॥</i></p>
-<p align="center"><b>Bhagavad Gita 6.6</b></p>
-<p align="center">For one who has conquered the mind, the mind is a friend. For one who has not, it acts as an enemy.</p>
+<p align="center"><b>क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः।</b></p>
+<p align="center"><i>क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः। स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.63</b></p>
+<p align="center">Anger clouds judgment, confusion erodes memory, and when the intellect is lost, everything is lost.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
