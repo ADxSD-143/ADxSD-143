@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः।</b></p>
-<p align="center"><i>क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः। स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.63</b></p>
-<p align="center">Anger clouds judgment, confusion erodes memory, and when the intellect is lost, everything is lost.</p>
+<p align="center"><b>यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः।</b></p>
+<p align="center"><i>यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः। तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम॥</i></p>
+<p align="center"><b>Bhagavad Gita 18.78</b></p>
+<p align="center">Where there is wisdom together with determined effort, there are prosperity, victory, and sound judgment.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
