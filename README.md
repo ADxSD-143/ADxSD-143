@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते।</b></p>
-<p align="center"><i>क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते। क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.3</b></p>
-<p align="center">Do not give in to weakness. Shake off petty fear and rise.</p>
+<p align="center"><b>सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।</b></p>
+<p align="center"><i>सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज। अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥</i></p>
+<p align="center"><b>Bhagavad Gita 18.66</b></p>
+<p align="center">Surrender to the divine with trust, and do not grieve.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
