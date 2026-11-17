@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः।</b></p>
-<p align="center"><i>स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः। स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु॥</i></p>
-<p align="center"><b>Bhagavad Gita 18.45</b></p>
-<p align="center">A person devoted to their own work attains perfection.</p>
+<p align="center"><b>असंशयं महाबाहो मनो दुर्निग्रहं चलम्।</b></p>
+<p align="center"><i>असंशयं महाबाहो मनो दुर्निग्रहं चलम्। अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते॥</i></p>
+<p align="center"><b>Bhagavad Gita 6.35</b></p>
+<p align="center">The mind is restless and hard to tame, but it can be steadied by practice and detachment.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
