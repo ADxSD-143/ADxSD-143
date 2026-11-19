@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः।</b></p>
-<p align="center"><i>नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः। शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः॥</i></p>
-<p align="center"><b>Bhagavad Gita 3.8</b></p>
-<p align="center">Do your duty. Action is better than inaction.</p>
+<p align="center"><b>मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।</b></p>
+<p align="center"><i>मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः। आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.14</b></p>
+<p align="center">Heat and cold, pleasure and pain come and go. They are temporary, so learn to endure them.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
