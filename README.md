@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः।</b></p>
-<p align="center"><i>दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः। वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.56</b></p>
-<p align="center">One who is undisturbed in sorrow, free from craving in joy, and free from fear and anger is steady in wisdom.</p>
+<p align="center"><b>असंशयं महाबाहो मनो दुर्निग्रहं चलम्।</b></p>
+<p align="center"><i>असंशयं महाबाहो मनो दुर्निग्रहं चलम्। अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते॥</i></p>
+<p align="center"><b>Bhagavad Gita 6.35</b></p>
+<p align="center">The mind is restless and hard to tame, but it can be steadied by practice and detachment.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
