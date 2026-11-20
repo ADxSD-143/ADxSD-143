@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>यतो यतो निश्चरति मनश्चञ्चलमस्थिरम्।</b></p>
-<p align="center"><i>यतो यतो निश्चरति मनश्चञ्चलमस्थिरम्। ततस्ततो नियम्यैतदात्मन्येव वशं नयेत्॥</i></p>
-<p align="center"><b>Bhagavad Gita 6.26</b></p>
-<p align="center">Wherever the restless mind wanders, gently bring it back under control.</p>
+<p align="center"><b>दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः।</b></p>
+<p align="center"><i>दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः। वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.56</b></p>
+<p align="center">One who is undisturbed in sorrow, free from craving in joy, and free from fear and anger is steady in wisdom.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
