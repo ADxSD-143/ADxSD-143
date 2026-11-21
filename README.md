@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते।</b></p>
-<p align="center"><i>नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते। स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.40</b></p>
-<p align="center">No effort on this path is ever wasted. Even a little progress protects from great fear.</p>
+<p align="center"><b>मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।</b></p>
+<p align="center"><i>मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः। आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.14</b></p>
+<p align="center">Heat and cold, pleasure and pain come and go. They are temporary, so learn to endure them.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
