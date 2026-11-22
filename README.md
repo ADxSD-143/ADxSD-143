@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते।</b></p>
-<p align="center"><i>नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते। स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्॥</i></p>
-<p align="center"><b>Bhagavad Gita 2.40</b></p>
-<p align="center">No effort on this path is ever wasted. Even a little progress protects from great fear.</p>
+<p align="center"><b>इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः।</b></p>
+<p align="center"><i>इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः। मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः॥</i></p>
+<p align="center"><b>Bhagavad Gita 3.42</b></p>
+<p align="center">The senses are powerful, the mind is higher than the senses, the intellect is higher than the mind, and the Self is beyond all.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
