@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः।</b></p>
-<p align="center"><i>इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः। मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः॥</i></p>
-<p align="center"><b>Bhagavad Gita 3.42</b></p>
-<p align="center">The senses are powerful, the mind is higher than the senses, the intellect is higher than the mind, and the Self is beyond all.</p>
+<p align="center"><b>तस्मादसक्तः सततं कार्यं कर्म समाचर।</b></p>
+<p align="center"><i>तस्मादसक्तः सततं कार्यं कर्म समाचर। असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः॥</i></p>
+<p align="center"><b>Bhagavad Gita 3.19</b></p>
+<p align="center">Do your duty without attachment. By working this way, a person reaches the highest.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
