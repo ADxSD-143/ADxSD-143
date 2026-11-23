@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः।</b></p>
-<p align="center"><i>नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः। शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः॥</i></p>
-<p align="center"><b>Bhagavad Gita 3.8</b></p>
-<p align="center">Do your duty. Action is better than inaction.</p>
+<p align="center"><b>युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।</b></p>
+<p align="center"><i>युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु। युक्तस्वप्नावबोधस्य योगो भवति दुःखहा॥</i></p>
+<p align="center"><b>Bhagavad Gita 6.17</b></p>
+<p align="center">Balance in eating, recreation, work, and sleep makes discipline a remedy for suffering.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
