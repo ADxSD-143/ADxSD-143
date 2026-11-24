@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।</b></p>
-<p align="center"><i>युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु। युक्तस्वप्नावबोधस्य योगो भवति दुःखहा॥</i></p>
-<p align="center"><b>Bhagavad Gita 6.17</b></p>
-<p align="center">Balance in eating, recreation, work, and sleep makes discipline a remedy for suffering.</p>
+<p align="center"><b>न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।</b></p>
+<p align="center"><i>न हि ज्ञानेन सदृशं पवित्रमिह विद्यते। तत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति॥</i></p>
+<p align="center"><b>Bhagavad Gita 4.38</b></p>
+<p align="center">Nothing here is as purifying as knowledge; with time, one discovers it within through practice.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
