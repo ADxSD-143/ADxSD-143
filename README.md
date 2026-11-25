@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः।</b></p>
-<p align="center"><i>यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः। हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः॥</i></p>
-<p align="center"><b>Bhagavad Gita 12.15</b></p>
-<p align="center">One who does not disturb the world and is not disturbed by it, free from agitation, is dear to me.</p>
+<p align="center"><b>त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः।</b></p>
+<p align="center"><i>त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः। कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः॥</i></p>
+<p align="center"><b>Bhagavad Gita 4.20</b></p>
+<p align="center">Giving up attachment to results and staying content, one is free even while fully engaged in action.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
