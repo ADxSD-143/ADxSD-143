@@ -118,10 +118,10 @@ I want to become an engineer who understands **why a system works**, not only ho
 </p>
 
 <!-- GITA_QUOTE_START -->
-<p align="center"><b>नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः।</b></p>
-<p align="center"><i>नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः। शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः॥</i></p>
-<p align="center"><b>Bhagavad Gita 3.8</b></p>
-<p align="center">Do your duty. Action is better than inaction.</p>
+<p align="center"><b>वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि।</b></p>
+<p align="center"><i>वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि। तथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही॥</i></p>
+<p align="center"><b>Bhagavad Gita 2.22</b></p>
+<p align="center">As a person discards worn-out clothes for new ones, the soul leaves worn-out bodies and takes new ones.</p>
 <!-- GITA_QUOTE_END -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ADxSD-143/ADxSD-143/main/assets/chakra.svg" width="72" alt="Sudarshan Chakra" /></p>
